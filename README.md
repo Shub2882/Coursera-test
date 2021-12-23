@@ -1,2 +1,2 @@
 # coursera-test
-this is a coursera test page
+Coursera-test page
